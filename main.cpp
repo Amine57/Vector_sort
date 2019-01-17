@@ -56,7 +56,7 @@ int main() {
 	cout << T[3] <<endl;
 	cout << T[4] <<endl;
 	
-	//cout << "The vector elements in reverse order are:\n";
+	
 	//for (auto it = T.rbegin(); it != T.rend(); it++)
 	//	cout << *it << " ";
 	
